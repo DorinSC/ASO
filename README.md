@@ -1,2 +1,2 @@
-# ASO
-Laboratories for ASO UTM 2022
+# sleeping-barber
+A java solution to the Sleep barber problem
